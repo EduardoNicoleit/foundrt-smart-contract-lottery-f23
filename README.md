@@ -1,4 +1,4 @@
-# Proveable Random Raffle Contract //////////////////
+# Proveable Random Raffle Contract /////////////////
 
 ## Description
 This contract implements a sample raffle using Chainlink VRF Version 2. Participants can enter the raffle by paying an entrance fee, and a random winner is chosen periodically.
